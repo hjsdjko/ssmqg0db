@@ -1,0 +1,80 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/register/register",
+    "pages/forget/forget",
+    "pages/center/center",
+    "pages/user-info/user-info",
+    "pages/news-detail/news-detail",
+    "pages/yonghu/list",
+    "pages/yonghu/add-or-update",
+    "pages/yonghu/detail",
+    "pages/caixi/list",
+    "pages/caixi/add-or-update",
+    "pages/caixi/detail",
+    "pages/caipinxinxi/list",
+    "pages/caipinxinxi/add-or-update",
+    "pages/caipinxinxi/detail",
+    "pages/wodedingdan/list",
+    "pages/wodedingdan/add-or-update",
+    "pages/wodedingdan/detail",
+    "pages/zhuohao/list",
+    "pages/zhuohao/add-or-update",
+    "pages/zhuohao/detail",
+    "pages/tuikuanxinxi/list",
+    "pages/tuikuanxinxi/add-or-update",
+    "pages/tuikuanxinxi/detail",
+    "pages/caipinpinglun/list",
+    "pages/caipinpinglun/add-or-update",
+    "pages/caipinpinglun/detail",
+    "pages/xiaoshoutongji/list",
+    "pages/xiaoshoutongji/add-or-update",
+    "pages/xiaoshoutongji/detail",
+    "pages/news/list",
+    "pages/news/add-or-update",
+    "pages/news/detail",
+    "pages/discusscaipinxinxi/list",
+    "pages/discusscaipinxinxi/add-or-update",
+    "pages/discusscaipinxinxi/detail",
+    "pages/pay-confirm/pay-confirm",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "客家菜餐馆点菜系统小程序",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#FF6B13",
+    "borderStyle": "white",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/index.png",
+        "selectedIconPath": "static/tabs/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/caipinxinxi/list",
+        "iconPath": "/static/tabs/icon1.png",
+        "selectedIconPath": "/static/tabs/icon1_act.png",
+        "text": "菜品信息"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/tabs/mine.png",
+        "selectedIconPath": "static/tabs/mine1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/mescroll-uni/mescroll-uni",
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

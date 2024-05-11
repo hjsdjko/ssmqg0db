@@ -1,0 +1,285 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/caixi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caixi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caixi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/caipinxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caipinxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caipinxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/wodedingdan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/wodedingdan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/wodedingdan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/zhuohao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zhuohao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/zhuohao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/tuikuanxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/tuikuanxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/tuikuanxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/caipinpinglun/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caipinpinglun/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/caipinpinglun/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/xiaoshoutongji/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshoutongji/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/xiaoshoutongji/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discusscaipinxinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusscaipinxinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusscaipinxinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white"
+		}
+	}
+					, {
+		"path": "pages/pay-confirm/pay-confirm",
+		"style": {
+			"navigationBarTitleText": "确认支付"
+		}
+	}
+	, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FFAA33",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "客家菜餐馆点菜系统小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#333333",
+		"selectedColor": "#FF6B13",
+		"borderStyle": "white",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/caipinxinxi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "菜品信息"
+			}
+						
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
